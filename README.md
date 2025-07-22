@@ -77,7 +77,7 @@ This project is fully compatible with CCBP IDE test cases. Tests include:
 ### Clone the Project
 
 ```bash
-git clone https://github.com/YourUsername/TrendyBuy.git
+git clone https://github.com/BasavarajuVB/TrendyBuy.git
 cd TrendyBuy
 ```
 

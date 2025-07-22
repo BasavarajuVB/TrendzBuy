@@ -280,3 +280,7 @@
     font-size: 48px;
   }
 }
+.quantity-controller-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
